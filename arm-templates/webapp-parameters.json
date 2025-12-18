@@ -5,11 +5,8 @@
     "siteName": {
       "value": "lmliacpaas001"
     },
-    "location": {
-      "value": "centralus"
-    },
     "skuName": {
-      "value": "F1"
+     "value": "F1"
     }
   }
 }
