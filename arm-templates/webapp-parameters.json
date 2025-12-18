@@ -6,7 +6,7 @@
       "value": "lmliacpaas001"
     },
     "location": {
-      "value": "centralus"
+      "value": "[resourceGroup().location]"
     },
     "skuName": {
       "value": "F1"
