@@ -1,3 +1,4 @@
+# Executa o pipeline em todo commit na branch main
 trigger:
 - main
 
